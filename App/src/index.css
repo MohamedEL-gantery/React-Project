@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-custom-color {
+  background-color: #165069 !important;
+}
+
+.custom-color {
+  color: #165069 !important;
+}
+
+.custom-color-p {
+  color: #b1b1b1 !important;
+}
+
+.text-decoration-none {
+  text-decoration: none !important;
+}
